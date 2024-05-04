@@ -1,7 +1,9 @@
 ## Dukaan Dashboard Replica
 
 ### Overview
-This project is a single-page dashboard UI replica inspired by a x(formely Twitter) post from Dukaan CTO, Shubash Choudhary.
+Try to make a pixel perfect single-page dashboard UI replica inspired by a [x(formely Twitter) post](https://twitter.com/subhashchy/status/1744308069751025894?t=MrLV-PSnfsgv0Hg2jTz5JA&s=08) from Dukaan CTO, Shubash Choudhary.
+<br><br>
+Check it out: [live link](https://frontend-dukaan-dashboard-clone-e8t5wgkl3.vercel.app)
 
 ### Features
 - Pixel-perfect design implementation using React components and Tailwind CSS.
@@ -15,6 +17,3 @@ This project is a single-page dashboard UI replica inspired by a x(formely Twitt
 1. Clone the repository.
 2. Install dependencies using `npm install`.
 3. Run the application using `npm start`.
-
-### Live Demo
-The live demo of the dashboard can be accessed [here](link to live demo).
